@@ -54,3 +54,5 @@ logs
 
 # Prisma
 /prisma/migrations/*/migration.sql
+
+.vercel
